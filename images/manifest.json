@@ -1,0 +1,66 @@
+{
+  "id" : "https://alessandralovato.github.io/Prova-caricamento/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in alessandralovato/Prova-caricamento project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3116,
+    "id" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409/canvas/",
+    "label" : {
+      "none" : [ "IMG_1409" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 98,
+              "height" : 128
+            }, {
+              "width" : 195,
+              "height" : 256
+            }, {
+              "width" : 390,
+              "height" : 511
+            }, {
+              "width" : 779,
+              "height" : 1021
+            }, {
+              "width" : 1558,
+              "height" : 2041
+            }, {
+              "width" : 3116,
+              "height" : 4082
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3116,
+            "@id" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4082
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3116,
+          "id" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4082
+        },
+        "target" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409/canvas/"
+      } ]
+    } ],
+    "height" : 4082
+  } ]
+}

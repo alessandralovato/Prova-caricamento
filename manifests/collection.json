@@ -1,0 +1,13 @@
+{
+  "id" : "https://alessandralovato.github.io/Prova-caricamento/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in alessandralovato/Prova-caricamento project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://alessandralovato.github.io/Prova-caricamento/manifests/manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}

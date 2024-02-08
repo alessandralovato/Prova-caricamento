@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://alessandralovato.github.io/Prova-caricamento/manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://alessandralovato.github.io/Prova-caricamento/manifests/BE-15-062.json",
+    "label" : "[Click to edit label]"
   } ]
 }

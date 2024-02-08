@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://alessandralovato.github.io/Prova-caricamento/manifests/BE-15-062.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://26460cda-2e79-4c70-bba6-0dfddee46c08",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://19c57ee4-0859-413a-bf95-649de18e5918",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4082,
+      "width" : 3116,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2ba27c84-d3e4-4732-8fbf-7e6f51f66c00",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alessandralovato.github.io/Prova-caricamento/images/IMG_1409",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4082,
+          "width" : 3116
+        },
+        "on" : "http://19c57ee4-0859-413a-bf95-649de18e5918"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
